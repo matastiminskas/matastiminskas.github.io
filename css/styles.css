@@ -30,7 +30,7 @@ nav {
   margin: 3rem 0;
 }
 
-/* grid section */
+/* skills section */
 .skills-section {
   padding: 3rem 15% 4rem;
 }
@@ -38,6 +38,10 @@ nav {
 .image {
   width: 50%;
   margin: 3rem 0;
+}
+
+.skills-section p {
+  padding: 0 5%;
 }
 
 /* conatct-me section */
