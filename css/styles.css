@@ -1,0 +1,68 @@
+body {
+  background-color: #FEFAE0;
+}
+
+/* navbar */
+nav {
+  background-color: #5F6F52;
+}
+
+.navbar .navbar-brand, .navbar .navbar-nav .nav-link {
+  color: #FEFAE0;
+}
+
+.my-navbar {
+  padding: 0.5rem 15%;
+}
+
+/* Heading */
+.heading {
+  background-color: #A9B388;
+  padding: 3rem 15%;
+}
+
+.heading-text {
+  padding: 10% 5%;
+}
+
+.heading-image {
+  width: 75%;
+  margin: 3rem 0;
+}
+
+/* grid section */
+.skills-section {
+  padding: 3rem 15% 4rem;
+}
+
+.image {
+  width: 50%;
+  margin: 3rem 0;
+}
+
+/* conatct-me section */
+.contact-section {
+  background-color: #A9B388;
+  padding: 3rem 15%;
+}
+
+.contact-image {
+  width: 60%;
+  margin: 3rem 0;
+}
+
+.contact-text {
+  padding: 10% 5%;
+}
+
+/* footer */
+.footer {
+  background-color: #B99470;
+  /* color: #FEFAE0; */
+}
+
+.copyright {
+  margin-bottom: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
